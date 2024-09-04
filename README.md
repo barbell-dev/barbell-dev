@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun</h1>
 <h3 align="center">A full stack developer from India</h3>
+<span>&#x1f1e7;&#x1f1f7;</span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barbell-dev&label=Profile%20views&color=0e75b6&style=flat" alt="barbell-dev" /> </p>
 
